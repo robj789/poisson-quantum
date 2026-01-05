@@ -1,0 +1,5 @@
+{
+  "name": "Poisson PRO - Elite Soccer Analytics",
+  "description": "Professional-grade football prediction engine using adjusted Poisson distributions and Monte Carlo simulations across 60+ markets.",
+  "requestFramePermissions": []
+}
